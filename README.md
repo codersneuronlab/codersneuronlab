@@ -1,0 +1,2 @@
+- 🧠 Inteligência Artificial de forma fácil, personalizada e sem código.
+- ✅ Sua predição está pronta!
