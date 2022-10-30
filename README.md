@@ -1,4 +1,4 @@
-- 🧠 Somos uma startup especialista em Inteligência Artificial. 
+🧠 Somos uma startup especialista em Inteligência Artificial. 
 
 Possuímos uma plataforma SaaS de alta tecnologia e de fácil uso para que sua própria equipe construa modelos preditivos personalizados ao seu negócio.
 
